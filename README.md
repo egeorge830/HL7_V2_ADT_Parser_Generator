@@ -1,3 +1,5 @@
+Academic project developed during the M.S. in Health Informatics program at Indiana University.
+
 ### Exercise 1
 #### Parse and extract data from an HL7 ADT^A01 message.
 **Files**:
